@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FlightGearApp</string>
+    <string name="enter_ip">Enter IP</string>
+    <string name="enterport">EnterPort</string>
+    <string name="connect">Connect</string>
+    <string name="connected">You are Connected!</string>
+    <string name="notConnected">Did not succeed to connect. Please be sure to enter the right IP and Port</string>
+
+</resources>
