@@ -1,5 +1,5 @@
 # FlightGear-Android
-link to github - https://github.com/Sapirwe/FlightGear-App.git.
+link to github - https://github.com/shovalharel/FlightGear-Android.git
 
 link to an explain video - https://youtu.be/UZrsobLt4-E
 
@@ -16,7 +16,7 @@ As you open the FlightGear App, choose the 'Settings' tab and add the following 
 This will open communication socket - 'in' where you send commands to the simulator.
 
 Running:
-Download by git clone from -https://github.com/Sapirwe/FlightGear-App.git. and it to Android Studio.
+Download by git clone from -https://github.com/shovalharel/FlightGear-Android.git. and it to Android Studio.
 Open the FlightGear App, click on 'FLY', and then click on 'Cessna C172P' and choose 'Autostart'.
 Run the program from Android Studio.
 After inserting the Port and IP, you will be able to control the plane by moving the joystick and slides.
